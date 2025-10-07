@@ -7,4 +7,5 @@ int main()
     int a;
     cin>>a;
     cout<< "hello world";
+    cout<< "hii";
 }
